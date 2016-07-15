@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.hexdump.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.hexdump)
-[![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.bsvrz.sys.funclib.hexdump/images/download.svg)](https://bintray.com/datenverteiler/maven/de.bsvrz.sys.funclib.hexdump)
+[![Build Status](https://travis-ci.org/bitctrl/de.bsvrz.sys.funclib.hexdump.svg?branch=master)](https://travis-ci.org/bitctrl/de.bsvrz.sys.funclib.hexdump)
+[![Build Status](https://api.bintray.com/packages/bitctrl/maven/de.bsvrz.sys.funclib.hexdump/images/download.svg)](https://bintray.com/bitctrl/maven/de.bsvrz.sys.funclib.hexdump)
 
 de.bsvrz.sys.funclib.hexdump v${project.version}
 ===================================
